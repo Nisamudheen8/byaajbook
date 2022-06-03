@@ -1,0 +1,14 @@
+.footer-body-mob {
+    background-color: #673dcb;
+    color: white;
+  }
+  
+  .legal-span-mob,.stay-connected-span-mob{
+      font-size: 1.25rem;
+      font-weight: 700;
+  }
+  
+  .privacy-span-mob,.terms-span-mob{
+      font-size: 1rem;
+      font-weight: 200;
+  }
